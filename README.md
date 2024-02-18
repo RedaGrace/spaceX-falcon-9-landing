@@ -1,4 +1,4 @@
-# spaceX-falcon-9-landing-prediction  
+# spaceX-falcon-9-landing-prediction
 
 Nowadays we have become interested in space, and even many of our services are relevant to Earth orbit such as satellites, hence many companies working on rockets that used to launch such satellites. A rocket launch costs upwards of 165 million dollars however, SpaceX advertises that a rocket launch could cost 62 million dollars that is because SpaceX can reuse the first stage of the rocket. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. 
 
